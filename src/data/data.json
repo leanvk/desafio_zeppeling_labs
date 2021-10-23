@@ -1,0 +1,16 @@
+ [
+        {
+            "name": "Hamburguesa",
+            "price": 500,
+            "subTitle" : "Combo completo de hamburguesa simple.",
+            "callToAction" : " Elegir",
+            "img":"https://i.imgur.com/euF69MU.png",
+            "size": ["Grande","Chico"],
+            "sodaFlavor": ["Cola","Limon","Pomelo","Agua","Naranja"],
+            "toppings": ["Mayonesa","Ketchup","Lechuga","Tomate","Pepinillos","Cebollas","Pan"]
+        },
+        {
+            "name": "hamburguesa con queso",
+            "price": 600
+        }
+    ]

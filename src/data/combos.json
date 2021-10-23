@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Combo Burger",
+        "price": 9.99,
+        "subTitle": "Simple but jucy burger. Choose your toppings",
+        "callToAction": " Select",
+        "img": "https://i.imgur.com/euF69MU.png",
+        "size": [
+            "Small",
+            "Big (+$2.00)"
+        ],
+        "sodaFlavor": [
+            "Cola",
+            "Lemon",
+            "Grapefruit",
+            "Watter",
+            "Orange"
+        ],
+        "toppings": [
+            "Mayonnaise",
+            "Ketchup",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Onions"
+        ]
+    },
+    {
+        "name": "Combo Double Burger",
+        "price": 10.99,
+        "subTitle": "Double but jucy burger. Choose your toppings",
+        "callToAction": " Select",
+        "img": "https://i.imgur.com/dhrjJdR.png",
+        "size": [
+            "Small",
+            "Big (+$2.00)"
+        ],
+        "sodaFlavor": [
+            "Cola",
+            "Lemon",
+            "Grapefruit",
+            "Watter",
+            "Orange"
+        ],
+        "toppings": [
+            "Mayonnaise",
+            "Ketchup",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Onions"
+        ]
+    },
+    {
+        "name": "Combo Burger + Cheese",
+        "price": 11.99,
+        "subTitle": "What's a burguer without cheese? Choose your toppings",
+        "callToAction": " Select",
+        "img": "https://i.imgur.com/XvY0c3L.png",
+        "size": [
+            "Small",
+            "Big (+$2.00)"
+        ],
+        "sodaFlavor": [
+            "Cola",
+            "Lemon",
+            "Grapefruit",
+            "Watter",
+            "Orange"
+        ],
+        "toppings": [
+            "Mayonnaise",
+            "Ketchup",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Onions"
+        ]
+    },
+    {
+        "name": "Combo double Burger + Cheese",
+        "price": 15.49,
+        "subTitle": "What’s a burger without melted delicious DOUBLE cheese?",
+        "callToAction": " Select",
+        "img": "https://i.imgur.com/aaOejJg.png",
+        "size": [
+            "Small",
+            "Big (+$2.00)"
+        ],
+        "sodaFlavor": [
+            "Cola",
+            "Lemon",
+            "Grapefruit",
+            "Watter",
+            "Orange"
+        ],
+        "toppings": [
+            "Mayonnaise",
+            "Ketchup",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Onions"
+        ]
+    }
+]

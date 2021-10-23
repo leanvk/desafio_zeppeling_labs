@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Simple Burger",
+        "price": 6.25,
+        "subTitle" : "Simple but jucy burger. Choose your toppings",
+        "callToAction" : " Select",
+        "img":"https://i.imgur.com/euF69MU.png"
+    },
+    {
+        "name": "Double Burger",
+        "price": 8.49,
+        "subTitle" : "Double but jucy burger. Choose your toppings",
+        "callToAction" : " Select",
+        "img":"https://i.imgur.com/dhrjJdR.png"
+    },
+    {
+        "name": "Burger + Cheese",
+        "price": 9.00,
+        "subTitle" :"What's a burguer without cheese? Choose your toppings",
+        "callToAction" : " Select",
+        "img":"https://i.imgur.com/XvY0c3L.png"
+    },
+    {
+        "name": "double Burger + Cheese",
+        "price": 13.00,
+        "subTitle" :"What’s a burger without melted delicious DOUBLE cheese?",
+        "callToAction" : " Select",
+        "img":"https://i.imgur.com/aaOejJg.png"
+    }
+
+
+
+]

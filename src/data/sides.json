@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Fries",
+        "price": 3.49,
+        "subTitle" : "Crunchy unique fries",
+        "callToAction" : " Select",
+        "img":"https://i.imgur.com/vE2Ex8q.png"
+    },
+    {
+        "name": "Soda",
+        "price": 1,
+        "subTitle" : "Acompany your burger with soda",
+        "callToAction" : " Select",
+        "img":"https://i.imgur.com/dhrjJdR.png"
+    }
+]
